@@ -9,7 +9,7 @@ https://mrjorge1119.github.io/MRJPortfolio1/
 README.md
 Author: Marcos R Jorge
 
-Portfolio of Marcos R Jorge
+Portfolio: This web page is dedicaded to the art and development projects of Marcos R Jorge. It contains...  
 
 Who am I... 
 
